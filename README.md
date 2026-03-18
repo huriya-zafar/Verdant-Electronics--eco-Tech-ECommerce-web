@@ -6,7 +6,7 @@ Verdant Electronics is not just an online store; it’s an environmental mission
 ---
 
 ## 🚀 Live Demo
-[Insert your Vercel/Netlify URL here]
+verdant-electronics-eco-tech-e-comm.vercel.app
 
 ---
 
